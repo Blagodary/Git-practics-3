@@ -7,7 +7,12 @@ h1{
 p{
 	color: red;
 }
+
 a{
 	display: inline-block;
 	color: yellow;
+}
+img {
+	display: block;
+	max-width: auto;
 }
